@@ -1,0 +1,2 @@
+% predicates -> fns
+% no fns
