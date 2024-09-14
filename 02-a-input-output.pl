@@ -1,2 +1,2 @@
-read(A),nl,
-write('Hello'),nl.
+read(A).
+write('Hello').
