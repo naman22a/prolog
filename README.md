@@ -5,3 +5,4 @@
 2. Write a program to implement input, output and predicates in Prolog
 3. Write a program to implement local variables and conditional statements using
    Prolog
+4. Write a program to calculate factorial of a given number using Prolog
