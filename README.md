@@ -6,3 +6,4 @@
 3. Write a program to implement local variables and conditional statements using
    Prolog
 4. Write a program to calculate factorial of a given number using Prolog
+5. WAP to solve Tower of Hanoi problem in Prolog
