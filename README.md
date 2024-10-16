@@ -7,3 +7,5 @@
    Prolog
 4. Write a program to calculate factorial of a given number using Prolog
 5. WAP to solve Tower of Hanoi problem in Prolog
+6. Medical Diagnosis
+7. DFS
