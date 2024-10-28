@@ -9,3 +9,6 @@
 5. WAP to solve Tower of Hanoi problem in Prolog
 6. Medical Diagnosis
 7. DFS
+8. Water Jug problem
+9. Monkey Banana problem
+10. Constraint Satisfaction in Python
